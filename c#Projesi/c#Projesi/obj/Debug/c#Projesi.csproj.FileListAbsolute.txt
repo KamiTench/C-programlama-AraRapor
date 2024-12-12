@@ -1,0 +1,5 @@
+C:\Users\Han\Desktop\C# PROJE\c#Projesi\c#Projesi\obj\Debug\c#Projesi.csproj.AssemblyReference.cache
+C:\Users\Han\Desktop\C# PROJE\c#Projesi\c#Projesi\obj\Debug\c_Projesi.Form1.resources
+C:\Users\Han\Desktop\C# PROJE\c#Projesi\c#Projesi\obj\Debug\c_Projesi.Properties.Resources.resources
+C:\Users\Han\Desktop\C# PROJE\c#Projesi\c#Projesi\obj\Debug\c#Projesi.csproj.GenerateResource.cache
+C:\Users\Han\Desktop\C# PROJE\c#Projesi\c#Projesi\obj\Debug\c#Projesi.csproj.CoreCompileInputs.cache
